@@ -20,7 +20,6 @@ website:
     search: true
     contents:
       - text: "Proyectos"
-        href: projects/index.qmd
 
 format:
   html:
