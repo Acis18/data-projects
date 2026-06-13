@@ -8,15 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - href: projects/index.qmd
-        text: Proyectos
     right:
       - icon: linkedin
-        href: www.linkedin.com/in/angel-acis
+        href: https://www.linkedin.com/in/TUNOMBREDEUSUARIO
         target: _blank
       - icon: github
         href: https://github.com/Acis18/data-projects
         target: _blank
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Proyectos"
+        href: projects/index.qmd
 
 format:
   html:

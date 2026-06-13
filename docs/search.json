@@ -4,7 +4,11 @@
     "href": "projects/index.html",
     "title": "Proyectos",
     "section": "",
-    "text": "Índice de proyectos publicados."
+    "text": "Índice de proyectos publicados.",
+    "crumbs": [
+      "Inicio",
+      "Proyectos"
+    ]
   },
   {
     "objectID": "index.html",
