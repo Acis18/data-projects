@@ -1,5 +1,5 @@
 ---
-title: "Ángel Acis Delgadillo Ramos"
+title: "Angel Acis Delgadillo Ramos"
 subtitle: "Licenciado en Matemáticas · Ciencia de Datos"
 ---
 
