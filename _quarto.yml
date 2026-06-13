@@ -10,6 +10,13 @@ website:
         text: Inicio
       - href: projects/index.qmd
         text: Proyectos
+    right:
+      - icon: linkedin
+        href: www.linkedin.com/in/angel-acis
+        target: _blank
+      - icon: github
+        href: https://github.com/Acis18/data-projects
+        target: _blank
 
 format:
   html:
