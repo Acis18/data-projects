@@ -222,3 +222,13 @@ __marimo__/
 
 .quarto/
 .directory
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Datos crudos
+data/raw/
+*.csv
+*.parquet
+*.xlsx
