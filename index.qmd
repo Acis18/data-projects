@@ -1,0 +1,5 @@
+---
+title: "Data Projects"
+---
+
+Proyectos de análisis de datos, modelado estadístico y machine learning.

@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Projects — Acis18"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: projects/index.qmd
+        text: Proyectos
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: es
