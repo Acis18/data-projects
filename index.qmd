@@ -1,5 +1,23 @@
 ---
-title: "Data Projects"
+title: "Ángel Acis Delgadillo Ramos"
+subtitle: "Licenciado en Matemáticas · Ciencia de Datos"
 ---
 
-Proyectos de análisis de datos, modelado estadístico y machine learning.
+Matemático de formación con enfoque en análisis de datos y modelado estadístico.
+Este sitio reúne proyectos personales que abordan problemas reales de negocio
+con datos públicos: desde exploración y limpieza hasta modelos en producción.
+
+## Stack tecnológico
+
+Python · SQL · pandas · NumPy · scikit-learn · XGBoost · Plotly · Streamlit · MLflow · Quarto
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/angel-acis
+- Correo: adelgadillo747@gmail.com
+
+## Proyectos
+
+| # | Proyecto | Descripción |
+|---|----------|-------------|
+| — | Próximamente | — |
