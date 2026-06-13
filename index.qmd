@@ -1,15 +1,27 @@
 ---
 title: "Angel Acis Delgadillo Ramos"
 subtitle: "Licenciado en Matemáticas · Ciencia de Datos"
+date: "Junio 2026"
 ---
 
 Matemático de formación con enfoque en análisis de datos y modelado estadístico.
 Este sitio reúne proyectos personales que abordan problemas reales de negocio
-con datos públicos: desde exploración y limpieza hasta modelos en producción.
+con datos públicos: desde exploración y limpieza hasta modelos en producción. Construyo pipelines de análisis reproducibles en Python con control de versiones profesional. Este portafolio documenta mis proyectos y crece de manera continua.
 
 ## Stack tecnológico
 
-Python · SQL · pandas · NumPy · scikit-learn · XGBoost · Plotly · Streamlit · MLflow · Quarto
+| Propósito | Herramientas |
+|-----------|-------------|
+| Manipulación de datos | Python · pandas · NumPy · DuckDB |
+| Visualización | Plotly · Seaborn · Matplotlib |
+| Machine Learning | scikit-learn · XGBoost · LightGBM |
+| Series de tiempo | Prophet · statsmodels |
+| NLP | NLTK · Transformers (HuggingFace) |
+| Explicabilidad | SHAP · LIME |
+| MLOps | MLflow |
+| Despliegue | Streamlit |
+| Portafolio | Quarto · GitHub Pages |
+| Ingeniería de datos | pydantic · pytest · ruff |
 
 ## Contacto
 
