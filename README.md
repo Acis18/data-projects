@@ -1,4 +1,4 @@
-# Data Projects — Ángel Acis Delgadillo Ramos
+# Data Projects — Angel Acis Delgadillo Ramos
 
 Repositorio de proyectos personales en ciencia de datos, análisis estadístico
 y machine learning. Cada proyecto aborda un problema real de negocio con datos
